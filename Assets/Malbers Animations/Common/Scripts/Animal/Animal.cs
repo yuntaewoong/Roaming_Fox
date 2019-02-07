@@ -25,7 +25,6 @@ namespace MalbersAnimations
     {
         public Vector3 Direction;
         public float Amount = 0;
-
         public DamageValues(Vector3 dir, float amount = 0)
         {
             Direction = dir;

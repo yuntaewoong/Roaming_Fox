@@ -68,7 +68,6 @@ public class ConversationScript : MonoBehaviour
     }
     private void EnableControlDuringConver(bool active)
     {
-        minput.EnableInput("Jump", active);
         minput.EnableInput("Shift", active);
         minput.EnableInput("Attack1", active);
         minput.EnableInput("Action", active);

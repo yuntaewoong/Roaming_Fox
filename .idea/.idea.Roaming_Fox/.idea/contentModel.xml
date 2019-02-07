@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Roaming_Fox.507705032.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Desktop\Roaming_Fox" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="ConversationScript.cs" t="Include" />
+        </e>
+        <e p="EasyPolyMap" t="Include">
+          <e p="3rdParty" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="Code" t="Include">
+            <e p="EPMMaterialAgent.cs" t="Include" />
+            <e p="EPMObjExporter.cs" t="Include" />
+            <e p="EPMPolyTerrainCreator.cs" t="Include" />
+            <e p="EPMPreDefinedTools.cs" t="Include" />
+          </e>
+          <e p="Demos" t="Include">
+            <e p="AutumnVally" t="Include">
+              <e p="AutumnVally_data.txt" t="Include" />
+            </e>
+            <e p="EPMDemoCharacterController.cs" t="Include" />
+            <e p="EPMDemoScene.cs" t="Include" />
+            <e p="OtherDemoData" t="Include">
+              <e p="BasicTerrain.txt" t="Include" />
+              <e p="BunnyIsland.txt" t="Include" />
+              <e p="Circle_Island_Data.txt" t="Include" />
+            </e>
+            <e p="SpringIsland" t="Include">
+              <e p="SpringIsland_data.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Documents" t="Include">
+            <e p="StepByStepDemoData.txt" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="EPMDrawMapWindow.cs" t="Include" />
+            <e p="EPMPolyTerrainCreatorInspector.cs" t="Include" />
+          </e>
+        </e>
+        <e p="EPMTerrainOutput" t="Include">
+          <e p="EPMDefaultName_data20190203170935.txt" t="Include" />
+          <e p="EPMDefaultName_data20190203232022.txt" t="Include" />
+        </e>
+        <e p="LowPolyFantasyClouds" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="CloudsShader.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Malbers Animations" t="Include">
+          <e p="Common" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="OpenSans" t="Include">
+                <e p="License!.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Actions" t="Include">
+                <e p="Action.cs" t="Include" />
+                <e p="ActionZone.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="ActionZoneEditor.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Animal" t="Include">
+                <e p="Animal.cs" t="Include" />
+                <e p="AnimalAIControl.cs" t="Include" />
+                <e p="AnimalCallBacks.cs" t="Include" />
+                <e p="AnimalExperimental.cs" t="Include" />
+                <e p="AnimalMovement.cs" t="Include" />
+                <e p="AnimalVariables.cs" t="Include" />
+                <e p="AttackTrigger.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="AnimalAIControlEd.cs" t="Include" />
+                  <e p="AnimalEditor.cs" t="Include" />
+                </e>
+                <e p="FollowTarget.cs" t="Include" />
+                <e p="Hash.cs" t="Include" />
+                <e p="MakeDamage.cs" t="Include" />
+              </e>
+              <e p="Behaviors" t="Include">
+                <e p="AttackBehaviour.cs" t="Include" />
+                <e p="AutoGlideBehaviour.cs" t="Include" />
+                <e p="CommentB.cs" t="Include" />
+                <e p="DamagedBehavior.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="AnimEventSoundEditor.cs" t="Include" />
+                  <e p="CommentBEd.cs" t="Include" />
+                  <e p="MessagesBehaviorEd.cs" t="Include" />
+                  <e p="RigidConstraintsBEd.cs" t="Include" />
+                </e>
+                <e p="FallBehavior.cs" t="Include" />
+                <e p="Fly_NoRoot_Behavior.cs" t="Include" />
+                <e p="FlyBehavior.cs" t="Include" />
+                <e p="FlyDodgeBehaviour.cs" t="Include" />
+                <e p="FlySprintBehaviour.cs" t="Include" />
+                <e p="JumpBehaviour.cs" t="Include" />
+                <e p="JumpNoRootBehaviour.cs" t="Include" />
+                <e p="LayersBehavior.cs" t="Include" />
+                <e p="LoopBehaviour.cs" t="Include" />
+                <e p="MessagesBehavior.cs" t="Include" />
+                <e p="NoCollidersBehavior.cs" t="Include" />
+                <e p="RandomBehavior.cs" t="Include" />
+                <e p="RecoverBehavior.cs" t="Include" />
+                <e p="RigidConstraintsB.cs" t="Include" />
+                <e p="RootMotionBehaviour.cs" t="Include" />
+                <e p="SleepBehavior.cs" t="Include" />
+                <e p="SoundBehavior.cs" t="Include" />
+                <e p="UnderWaterBehaviour.cs" t="Include" />
+              </e>
+              <e p="Camera" t="Include">
+                <e p="CameraWallStop.cs" t="Include" />
+                <e p="ChangeTarget.cs" t="Include" />
+                <e p="FreeLockCameraManager.cs" t="Include" />
+                <e p="FreeLookCameraState.cs" t="Include" />
+                <e p="MFreeLookCamera.cs" t="Include" />
+                <e p="MProtectCameraFromWallClip.cs" t="Include" />
+              </e>
+              <e p="Compatible StA" t="Include">
+                <e p="Water" t="Include">
+                  <e p="MWater.cs" t="Include" />
+                  <e p="Water.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Editor" t="Include">
+                <e p="ActiveMeshesEditor.cs" t="Include" />
+                <e p="AnimalLayer.cs" t="Include" />
+                <e p="BlendShapeEditor.cs" t="Include" />
+                <e p="BlendShapesEditor.cs" t="Include" />
+                <e p="CommentEditor.cs" t="Include" />
+                <e p="EditorWithSubEditors.cs" t="Include" />
+                <e p="FlagDrawer.cs" t="Include" />
+                <e p="LayersBehaviorEd.cs" t="Include" />
+                <e p="MalbersEditor.cs" t="Include" />
+                <e p="MaterialChangerEditor.cs" t="Include" />
+                <e p="MessagesEd.cs" t="Include" />
+                <e p="RangedFloatDrawer.cs" t="Include" />
+                <e p="SoundByMaterialEd.cs" t="Include" />
+                <e p="TransformAnimationEditor.cs" t="Include" />
+                <e p="TriggerProxyEditor.cs" t="Include" />
+              </e>
+              <e p="Effects" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="EffectManagerEditor.cs" t="Include" />
+                </e>
+                <e p="EffectManager.cs" t="Include" />
+                <e p="EffectModifier.cs" t="Include" />
+              </e>
+              <e p="Events" t="Include">
+                <e p="MalbersEvents.cs" t="Include" />
+                <e p="Scriptable Events" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="MEventEditor.cs" t="Include" />
+                    <e p="MEventListenerEditor.cs" t="Include" />
+                  </e>
+                  <e p="MEvent.cs" t="Include" />
+                  <e p="MEventListener.cs" t="Include" />
+                </e>
+                <e p="UnityEventRaiser.cs" t="Include" />
+              </e>
+              <e p="Input" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="InputAxisDrawer.cs" t="Include" />
+                  <e p="InputRowDrawer.cs" t="Include" />
+                  <e p="MalbersInputEditor.cs" t="Include" />
+                </e>
+                <e p="iMalbersInput.cs" t="Include" />
+                <e p="MalbersInput.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IAnimatorBehaviour.cs" t="Include" />
+                <e p="IMDamagable.cs" t="Include" />
+                <e p="IMWayPoint.cs" t="Include" />
+                <e p="IWayPoint.cs" t="Include" />
+              </e>
+              <e p="Readme" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ReadmeEditor.cs" t="Include" />
+                </e>
+                <e p="Readme.cs" t="Include" />
+              </e>
+              <e p="Scriptable Variables" t="Include">
+                <e p="BoolReference.cs" t="Include" />
+                <e p="BoolVar.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="VariableEditor.cs" t="Include" />
+                  <e p="VariableReferenceDrawer.cs" t="Include" />
+                </e>
+                <e p="FloatReference.cs" t="Include" />
+                <e p="FloatVar.cs" t="Include" />
+                <e p="IntReference.cs" t="Include" />
+                <e p="IntVar.cs" t="Include" />
+                <e p="StringReference.cs" t="Include" />
+                <e p="StringVar.cs" t="Include" />
+                <e p="Vector3Reference.cs" t="Include" />
+                <e p="Vector3Var.cs" t="Include" />
+              </e>
+              <e p="Stats" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="StatsEd.cs" t="Include" />
+                </e>
+                <e p="Stats.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="ActiveMeshes.cs" t="Include" />
+                <e p="AnimatorEventSounds.cs" t="Include" />
+                <e p="BlendShape.cs" t="Include" />
+                <e p="BlendShapes.cs" t="Include" />
+                <e p="BlinkEyes.cs" t="Include" />
+                <e p="Comment.cs" t="Include" />
+                <e p="DeltaTransform.cs" t="Include" />
+                <e p="DodgeKeys.cs" t="Include" />
+                <e p="EnterWater.cs" t="Include" />
+                <e p="FlagAttribute.cs" t="Include" />
+                <e p="GizmoVisualizer.cs" t="Include" />
+                <e p="LinkedBlendShapes.cs" t="Include" />
+                <e p="LockAxis.cs" t="Include" />
+                <e p="LookAt.cs" t="Include" />
+                <e p="LookAtCamera.cs" t="Include" />
+                <e p="LookAtTrigger.cs" t="Include" />
+                <e p="MalbersAnimationExtensions.cs" t="Include" />
+                <e p="MalbersTools.cs" t="Include" />
+                <e p="MaterialChanger.cs" t="Include" />
+                <e p="MComparer.cs" t="Include" />
+                <e p="Messages.cs" t="Include" />
+                <e p="MinMaxRangeAttribute.cs" t="Include" />
+                <e p="MWayPoint.cs" t="Include" />
+                <e p="Pivots.cs" t="Include" />
+                <e p="PointClick.cs" t="Include" />
+                <e p="PublicEnums.cs" t="Include" />
+                <e p="RangedFloat.cs" t="Include" />
+                <e p="ScaleBonesFix.cs" t="Include" />
+                <e p="SlowMotion.cs" t="Include" />
+                <e p="SoundByMaterial.cs" t="Include" />
+                <e p="StepsManager.cs" t="Include" />
+                <e p="StepTrigger.cs" t="Include" />
+                <e p="TransformAnimation.cs" t="Include" />
+                <e p="TriggerProxy.cs" t="Include" />
+                <e p="UIFollowTransform.cs" t="Include" />
+                <e p="UseTransform.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="AnisotropicCircular.shader" t="Include" />
+              <e p="AnisotropicWard.shader" t="Include" />
+              <e p="Color4x2.shader" t="Include" />
+              <e p="Color4x3.shader" t="Include" />
+              <e p="Color4x4.shader" t="Include" />
+              <e p="Color4x4v2.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MegaPack1Lite" t="Include">
+          <e p="EnchantedForestPack1" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="GreekPack1Lite" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="RomanCityPack1Lite" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="SciFiPack1" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="Steampunk" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="ToolsAndWeapons" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="TropicalIslandPack1" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="PolarisStarter" t="Include">
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="CompileLogger.cs" t="Include" />
+              <e p="CreateGameObjectUtilities.cs" t="Include" />
+              <e p="EditorMenus.cs" t="Include" />
+              <e p="FoliageSpawnerEditor.cs" t="Include" />
+              <e p="IslandGeneratorEditor.cs" t="Include" />
+              <e p="UvExporterEditor.cs" t="Include" />
+            </e>
+            <e p="FoliageSpawner.cs" t="Include" />
+            <e p="Index2D.cs" t="Include" />
+            <e p="IslandGenerator.cs" t="Include" />
+            <e p="TakeScreenshot.cs" t="Include" />
+            <e p="Utilities.cs" t="Include" />
+            <e p="UvExporter.cs" t="Include" />
+            <e p="VersionInfo.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="VertexColor.shader" t="Include" />
+          </e>
+        </e>
+        <e p="RomanCityPack1Lite" t="Include">
+          <e p="readme.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Roaming_Fox.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
